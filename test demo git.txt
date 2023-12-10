@@ -3,3 +3,4 @@ git status
 git commit -m "new changes"
 git push
 git pull
+git config --global user.name "smit lad"
